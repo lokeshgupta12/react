@@ -1,0 +1,24 @@
+{
+    "gigDetailId": "3454",
+    "gigTitle": "Writing wizard  required for killer content creation",
+    "description": "This GIG to create a presentation on the current technology trends from IT industry's perpective",
+    "tag": "react, angular",
+    "start_date":1592551557972,
+    "end_date":1593455400000,
+    "last_date":1592850600000,
+    "attachment": "",
+    "type_application": "Looking for someone who has worked on Power point presentations before",
+    "No_application": "Only one application can work at a time",
+    "work_team": "No",
+    "question": [
+        "How do you insert objects in PPT?",
+        "Can we embed a video?" 
+    ],
+    "location": "Gurgaon",
+    "success": [
+        "Research on the topic is done",
+        "Has flows/images for description",
+        "Less verbose"
+    ]
+
+}

@@ -1,0 +1,113 @@
+.form_title {
+    margin-top: 20px;
+    margin: 24px;
+    font-size: 32px;
+    color: #0d60a2;
+    font-weight: bold;
+}
+
+.main_instructor_div {
+    margin-left: 62px;
+    border: 1px solid #ced4da;
+    width:60%;
+}
+
+.inst_title {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.inst_description {
+    font-size: 16px;
+}
+
+.first_section {
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+}
+
+.first_section_title {
+    background-color: #0d60a2;
+    padding: 7px;
+}
+.title_image {
+    height: 6vh;
+}
+
+.form_class {
+    margin: 20px 0px 40px 62px;
+    /* height: 64vh;
+    overflow-y: scroll; */
+}
+
+.form_group {
+    margin-top: 20px;
+    width: 80%;
+    margin-bottom: 20px !important;
+    
+}
+
+.form_row {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.form_row_label {
+    padding-top: 7px;
+}
+
+.form_control {
+    width: 40% !important;
+    height: calc(1.5em + 1rem + 10px) !important;
+}
+
+.form_control_teaxtarea {
+    width: 40% !important;
+    height: 8vh !important;
+}
+
+.row_checkbox {
+    margin-left: 4px;
+
+}
+.row_checkbox .form-check-label {
+    font-weight: normal !important;
+}
+.row_checkbox  input{
+    margin-top: 6px;
+
+}
+
+.row_checkbox  label{
+    margin-left: 23px;
+
+}
+
+.row_checkbox_svg {
+    margin-right: 25px;
+}
+
+.form_button {
+    height: 43px !important;
+    background-color: #0d60a2 !important;
+    border-color: #0d60a2 !important;
+    margin-right: 40px !important;
+    margin-top: 10px !important;
+}
+
+.form_button_left {
+    margin-left: 150px !important;
+}
+
+.form_button_save {
+    width: 5%;
+}
+
+.calender_icon::before {
+    content: url('/images/svg/calendar-icon.svg');
+    width: 55px;
+    height: 50px;
+    padding-top: 16px;
+    display: block;
+ } 

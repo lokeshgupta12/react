@@ -1,0 +1,31 @@
+.main-bg-color {
+    background-color: #254182;
+    
+  }
+  
+  .brand_title_text {
+      color: white;
+      font-size: 30px;
+      cursor: pointer;
+      margin-left: 10px;
+  }
+  
+  .button_left {
+      margin-left: auto;
+  }
+
+  .header_button {
+      /* background-color: #2196f3; */
+      border: 1px solid #0d60a2;
+      width:120px;
+      height: 40px;
+      font-size: 14px;
+      color: #0d60a2;
+      border-radius: 20px 20px;
+      font-weight: bold;
+  }
+
+  .navbar {
+    margin-bottom: 0px !important;
+    border-radius: 4px 4px 0px 0px !important;
+}

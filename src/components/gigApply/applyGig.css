@@ -1,0 +1,28 @@
+.apply_des {
+    font-size: 16px;
+    margin-left: 62px;
+    margin-top: 20px
+}
+.div_width{
+    width: 13%;
+    font-weight: bold;
+}
+.detail_link {
+    cursor: pointer;
+    color:#0d60a2;
+}
+.gig_display {
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.inst_description {
+    margin-bottom: 20px;
+}
+
+.main_instructor_apply_div {
+    margin-left: 62px;
+    border: 1px solid #ced4da;
+    width: 42%;
+    margin-bottom: 10px;
+}

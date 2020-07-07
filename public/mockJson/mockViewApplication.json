@@ -1,0 +1,16 @@
+{
+    "gigId": 12314,
+    "gigDetails": {
+        "title": "Create a dynamic form for capturing travel request",
+        "postedHour": 2,
+        "location": "Jaipur",
+        "gig_status": 1,
+        "listId":102,
+        "titleImageUrl": "/images/title3.jpg",
+        "tag": ["Angular"]
+    },
+    "total_application":10,
+    "selected_application": 5,
+    "rejected_application":5
+    
+}

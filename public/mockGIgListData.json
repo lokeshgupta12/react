@@ -1,0 +1,37 @@
+[{
+    "title": "Writing wizard  required for killer content creation",
+    "postedHour": 4,
+    "location": "APAC",
+    "gig_status": 1,
+    "listId":101,
+    "titleImageUrl": "/images/title2.jpg",
+    "tag": ["react", "angular", "angular2"]
+},
+{
+    "title": "Create a dynamic form for capturing travel request",
+    "postedHour": 3,
+    "location": "Jaipur",
+    "gig_status": 1,
+    "listId":102,
+    "titleImageUrl": "/images/title3.jpg",
+    "tag": ["Angular"]
+},
+{
+    "title": "Create a Sharepoint library for US expats information",
+    "postedHour": 2,
+    "location": "Gurgaon",
+    "gig_status": 1,
+    "istId":103,
+    "titleImageUrl": "/images/title.png",
+    "tag": ["react"]
+},
+{
+    "title": "Writing requirnment for chatboat",
+    "postedHour": 1,
+    "location": "Gurgaon",
+    "gig_status": 1,
+    "titleImageUrl": "/images/title2.jpg",
+    "listId":104,
+    "tag": ["react"]
+}
+]

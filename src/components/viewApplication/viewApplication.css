@@ -1,0 +1,25 @@
+.application_info_div {
+    margin-left: 90px;
+    font-weight: bold;
+    font-size: 20px;
+    color: #0d60a2;
+}
+
+.div_width {
+    width: 20%;
+    float: left;
+}
+
+.gig_id {
+    margin: 24px ;
+    font-size: 24px;
+    color: #0d60a2;
+    font-weight: bold;
+}
+
+.table_div {
+    margin-top: 80px;
+    width: 90% !important;
+    margin-left: 90px;
+    font-size: 20px;
+}

@@ -1,0 +1,49 @@
+.background_change {
+    background-image: url('/images/background1.jpg');
+    height:90vh;
+    background-size: 100% 100%;
+    border-left: 10px solid #254182;
+}
+
+.search_category_position {
+    float: right;
+    margin-top: 77px;
+    margin-right: 110px;
+    width: 54%;
+}
+ .gig_div {
+    height: 59px;
+    width: 100%;
+    border: 1px solid   #254182;
+    background-color:  #254182;
+    text-align: center;
+    border-radius: 5px;
+ }
+.gig_title {
+    font-size: 32px;
+    text-align: center;
+    color: white;
+    
+}
+
+.search_parent_div {
+    width: 67%;
+    margin-right: 110px;
+    float:right;
+}
+
+.search_icon {
+    /* position: relative; */
+    background-color: #0d60a2;
+    border: 1px solid #0d60a2;
+    height: 60px;
+    
+   
+   }
+   .search_icon::before {
+       content: url('/images/svg/search-icon.svg');
+       width: 55px;
+       height: 50px;
+       padding-top: 16px;
+       display: block;
+    }
